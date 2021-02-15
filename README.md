@@ -1,6 +1,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisLolz&langs_count=5&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ChrisLolz&count_private=true&theme=tokyonight&showicons=true)]()
 ### Hi there 👋
+### The name is Christopher, Chris for short. I'm a grade 11 student at Richmond Hill High School. I hope to one day to learn how to implement everything that goes through my mind into code. Although, I'm still pretty bad contest programming(gotta grind on dmoj) and my Python and Java repetoire is limited to looking at stackoverflow and Googling any problem I have.
 
 <!--
 **ChrisLolz/ChrisLolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

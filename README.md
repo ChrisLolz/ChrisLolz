@@ -2,6 +2,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ChrisLolz&count_private=true&theme=tokyonight&showicons=true)]()
 ### Hi there 👋
 ### My name is Christopher, I'm a grade 11 student at Richmond Hill High School.
+### Sorry stalkers, I'm not going to tell you anything else about me :)
 
 <!--
 **ChrisLolz/ChrisLolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

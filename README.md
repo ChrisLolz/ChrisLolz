@@ -1,7 +1,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisLolz&langs_count=5&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ChrisLolz&count_private=true&theme=tokyonight&showicons=true)]()
 ### Hi there 👋
-### My name is Christopher, I'm a grade 11 student at Richmond Hill High School.
+### My name is Christopher, I'm a grade 12 student at Richmond Hill High School.
 ### Sorry stalkers, I'm not going to tell you anything else about me :)
 
 <!--
